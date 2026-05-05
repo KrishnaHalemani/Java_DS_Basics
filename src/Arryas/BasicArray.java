@@ -13,6 +13,7 @@ public class BasicArray {
         arr1[2] = sc.nextInt();
         arr1[3] = sc.nextInt();
         arr1[4] = sc.nextInt();
+        System.out.println("Array 1: " + Arrays.toString(arr1));
 
         int[] arr2 = new int[5];
 
